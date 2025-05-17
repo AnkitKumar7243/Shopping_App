@@ -221,11 +221,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 ---
 
 <div align="center">
-  <p>Designed and developed with ❤️ by <a href="https://github.com/yourusername">Your Name</a></p>
-  <p>© 2023 Thread. All rights reserved.</p>
+  <p>Designed and developed with ❤️ by <a href="https://github.com/AnkitKumar7243">Ankit Kumar</a></p>
 </div>
