@@ -12,8 +12,6 @@
   <p>Featuring a sleek dark mode, intuitive navigation, and a seamless shopping experience.</p>
 </div>
 
-![Thread E-Commerce Platform](https://i.imgur.com/XYBnHUp.png)
-
 ## ✨ Features
 
 <div align="center">
@@ -38,7 +36,7 @@
 
 ## 🚀 Live Demo
 
-Check out the live demo of Thread: [https://thread-ecommerce.vercel.app](https://thread-ecommerce.vercel.app)
+Check out the live demo of Thread: [https://shopping-app-bxmt.vercel.app/](https://shopping-app-bxmt.vercel.app/)
 
 ## 📋 Table of Contents
 
